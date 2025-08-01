@@ -1,1 +1,13 @@
 streamlit
+matplotlib
+yfinance
+prophet
+ipywidgets
+pandas
+numpy
+scikit-learn
+statsmodels
+plotly
+seaborn
+openpyxl
+requests
